@@ -1,6 +1,8 @@
 # ITMD362-Project2
-## validations 
+## commits
+![image](https://user-images.githubusercontent.com/32846703/117053667-d919dc80-acde-11eb-8652-af27ae223434.png)
 
+## validations 
 ### home page
 ### contact page 
 ![image](https://user-images.githubusercontent.com/32846703/117051334-07e28380-acdc-11eb-9e1c-2d638b7b0f8d.png)
