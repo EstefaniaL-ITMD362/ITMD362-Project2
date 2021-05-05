@@ -4,6 +4,8 @@
 
 ## validations 
 ### home page
+![image](https://user-images.githubusercontent.com/32846703/117175443-797e0880-ad94-11eb-94bd-ec5d695805eb.png)
+
 ### contact page 
 ![image](https://user-images.githubusercontent.com/32846703/117051334-07e28380-acdc-11eb-9e1c-2d638b7b0f8d.png)
 
